@@ -11,24 +11,6 @@ A comprehensive computer architecture project implementing a **32-bit ARM proces
 
 ---
 
-## 📋 Table of Contents
-
-- [🌟 Overview](#-overview)
-- [🎯 Project Objectives](#-project-objectives)
-- [🧠 32-Bit ARM Processor (SystemVerilog RTL)](#-32-bit-arm-processor-systemverilog-rtl)
-  - [Core Architecture & Datapath](#core-architecture--datapath)
-  - [Component Breakdown](#component-breakdown)
-  - [Instruction Execution Flow](#instruction-execution-flow)
-  - [RTL Verification & Waveforms](#rtl-verification--waveforms)
-- [⚡ SAP-1 Architecture (Logisim Simulation)](#-sap-1-architecture-logisim-simulation)
-  - [Block Diagram](#block-diagram)
-  - [Simulation & Operations](#simulation--operations)
-- [🔬 Verification Approach](#-verification-approach)
-- [🛠️ Technology Stack](#️-technology-stack)
-- [📁 Repository Structure](#-repository-structure)
-- [🚀 How to Run & Simulate](#-how-to-run--simulate)
-- [📜 License](#-license)
-
 ---
 
 ## 🌟 Overview
